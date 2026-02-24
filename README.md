@@ -15,8 +15,8 @@ A Terraform module that provisions a K3S Kubernetes cluster on Proxmox Virtual E
 
 | Name | Version |
 |------|---------|
-| <a name="provider_proxmox"></a> [proxmox](#provider\_proxmox) | 0.89.1 |
-| <a name="provider_tls"></a> [tls](#provider\_tls) | 4.1.0 |
+| <a name="provider_proxmox"></a> [proxmox](#provider\_proxmox) | 0.97.0 |
+| <a name="provider_tls"></a> [tls](#provider\_tls) | 4.2.1 |
 
 ## Modules
 
